@@ -64,7 +64,7 @@ using Visual Studio Code, Springboot, Spring Security Dependency and Postman to 
 > The Architecture is drawn depending on what it is cared on the folder while programming
 
 
-## Platforms
+## Platforms and Tools
 
 ![Springboot](https://img.shields.io/badge/Springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=%23ffff)
