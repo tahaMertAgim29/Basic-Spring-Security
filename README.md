@@ -94,6 +94,7 @@ At the path of `src/resources/application.properties` you should check those lin
 - spring.datasource.password=YOUR_PASSWORD
 
 In the lines above, you should write your database name and your password instead of `YOUR_DATABASE` and `YOUR_PASSWORD` keywords in following.
+If you do not also use `root` as username, you should change the username too.
 
 
 
