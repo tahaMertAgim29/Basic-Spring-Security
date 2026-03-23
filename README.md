@@ -11,6 +11,7 @@ using Visual Studio Code, Springboot and Postman to send Http Requests such as *
 * Basic Authentication and Authorization
 * Http Requests over Postman
 * Security Configuration
+* Filter Chain Fundamental and Filtering Concept
 * Authorization based on Roles
 
 ## Prerequisities
@@ -69,6 +70,9 @@ using Visual Studio Code, Springboot and Postman to send Http Requests such as *
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=%23ffff)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=%23ffff)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=vsc&logoColor=ffff)
+![Java](https://img.shields.io/badge/Java-%23000000?style=for-the-badge&logo=openjdk&logoColor=ffff)
+
 
 
 ## Youtube Link
@@ -83,8 +87,13 @@ using Visual Studio Code, Springboot and Postman to send Http Requests such as *
 
 ## MySQL Link
 
+At the path of `src/resources/application.properties` you should check those lines for your MySQL Database Link.
 
+- spring.datasource.url=jdbc:mysql://localhost:3306/YOUR_DATABASE
+- spring.datasource.username=root
+- spring.datasource.password=YOUR_PASSWORD
 
+In the lines above, you should write your database name and your password instead of `YOUR_DATABASE` and `YOUR_PASSWORD` keywords in following.
 
 
 
