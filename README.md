@@ -3,7 +3,7 @@
 ## Introduction
 
 This is a basic Springboot project where you can make authorization, authentication, user detail information and filtering as security filter chain
-using Visual Studio Code, Springboot and Postman to send Http Requests such as **POST**, **DELETE** and **PUT**. 
+using Visual Studio Code, Springboot, Spring Security Dependency and Postman to send Http Requests such as **POST**, **DELETE** and **PUT**. 
 
 
 ## Features
