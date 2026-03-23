@@ -22,7 +22,6 @@ using Visual Studio Code, Springboot and Postman to send Http Requests such as *
 ## Architecture
 
 <pre>
-  
   ├── src 
   │    ├── main
   │    │     ├── java/com/example/security 
@@ -76,9 +75,13 @@ using Visual Studio Code, Springboot and Postman to send Http Requests such as *
 >[!TIP]
 > You can use this Youtube playlist if you are interested in Spring Security. Since it is long, you should find the videos which are associated with Security
 
+> [!WARNING]
+> Before starting, you should be sure that you have already understood Springboot fundamentally otherwise it might be seen hard to you.
 
-Youtube Playlist (Find the Spring Security ones):
+**Youtube Playlist (Find the Spring Security ones):**
 (https://www.youtube.com/playlist?list=PLstEgQdEnMSY8Q2kRHFdUrwgB6VPL4CjC)
+
+## MySQL Link
 
 
 
