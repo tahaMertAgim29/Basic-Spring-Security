@@ -82,8 +82,10 @@ using Visual Studio Code, Springboot, Spring Security Dependency and Postman to 
 > [!WARNING]
 > Before starting, you should be sure that you have already understood Springboot fundamentally otherwise it might be seen hard to you.
 
-**Youtube Playlist (Find the Spring Security ones):**
-(https://www.youtube.com/playlist?list=PLstEgQdEnMSY8Q2kRHFdUrwgB6VPL4CjC)
+**Youtube Playlist (Find the Spring Security ones(Turkish)):**
+
+
+[![https://www.youtube.com](https://i.ytimg.com/vi/wDapeceUXtg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTdmcDBlOf09Dviq0RiWWk2P9uZQ)](https://www.youtube.com/playlist?list=PLstEgQdEnMSY8Q2kRHFdUrwgB6VPL4CjC)
 
 ## MySQL Link
 
